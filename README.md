@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anushree Srivastava</h1>
+ <div style="background-color: rgb(127, 240, 255);" ><h1 align="center">Hi 👋, I'm Anushree Srivastava</h1>
 <h3 align="center">A passionate Software developer and problem solver with a keen interest in exploring the tech world and continuously learning new technologies. Currently, I am actively solving DSA problems on LeetCode to sharpen my problem-solving skills.</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Nqamplb2tvNGJ5Y2Y3MHB6NWhxdTE0ZWc3cHNhZm95MzE0OTg5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
